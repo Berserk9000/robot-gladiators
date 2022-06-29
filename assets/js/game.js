@@ -227,3 +227,4 @@ console.log(enemyInfo[0]['attack']);
 
 /* RUN GAME */
 startGame();
+//random
